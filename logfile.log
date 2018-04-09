@@ -1,0 +1,21 @@
+2018-03-07 16:25:52,423 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-07 16:49:33,202 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-07 16:49:37,794 INFO  [LogUtilities] first test failed java.lang.AssertionError: expected [xasxa] but found [xasx] 
+2018-03-07 17:01:55,058 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-07 17:01:59,400 INFO  [LogUtilities] first test failed java.lang.AssertionError: expected [xasxa] but found [xasx] 
+2018-03-07 17:09:40,493 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-07 17:09:45,304 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-08 14:08:14,249 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-08 14:08:19,195 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-08 18:21:56,737 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-08 18:22:01,611 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-08 18:35:56,284 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-08 18:36:00,726 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-09 11:30:37,399 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-09 11:30:42,471 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-11 10:00:06,864 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-11 10:00:12,461 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-13 12:01:10,741 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-13 12:01:15,449 INFO  [LogUtilities] Browser closed Successfully 
+2018-03-13 15:30:15,131 INFO  [LogUtilities] Browser launched with url Successfully 
+2018-03-13 15:30:20,168 INFO  [LogUtilities] Browser closed Successfully 
